@@ -1,5 +1,5 @@
 <h1 align="center">
-<img width=250 src='https://www.digitaltrends.com/wp-content/uploads/2023/04/chatgpt-whatsapp-image.jpg'/>  
+<img width=250 src='https://i.imgur.com/W2dulIh.png'/>  
 <br/>
   💫📋Asistente Virtual📋💫
 </h1>
