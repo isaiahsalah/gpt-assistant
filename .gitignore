@@ -1,0 +1,9 @@
+.env
+http
+venv/
+http/
+__pycache__/
+
+.dockerignore
+fly.toml
+Procfile

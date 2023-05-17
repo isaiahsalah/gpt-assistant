@@ -4,7 +4,7 @@
   💫📋Asistente Virtual📋💫
 </h1>
 <p align="center">
-    Este es un 👉🏻<a href="http://www.isaias.work">asistente virtual</a> personal en WhatsApp capaz de responder preguntas y llevar a cabo conversaciones complejas mediante el uso del modelo de lenguaje natural de ChatGPT y el envío y recepción de mensajes a través de la API de WhatsApp. La base de datos en MongoDB puede utilizarse para almacenar el historial de conversaciones y entrenar el modelo de ChatGPT.
+    Este es un 👉🏻<a href="https://wa.link/2nq10x">asistente virtual</a> personal en WhatsApp capaz de responder preguntas y llevar a cabo conversaciones complejas mediante el uso del modelo de lenguaje natural de ChatGPT y el envío y recepción de mensajes a través de la API de WhatsApp. La base de datos en MongoDB puede utilizarse para almacenar el historial de conversaciones y entrenar el modelo de ChatGPT.
     </p>
 
 # 🧑🏻‍💻 Tecnologías utilizadas
@@ -97,7 +97,7 @@
 
 # 🫣 Uso
 
-Puedes ver el funcionamiento de la app 👉🏻[aquí](http://www.isaias.work).
+Puedes ver el funcionamiento de la app 👉🏻[aquí](https://wa.link/2nq10x).
 
 # 👋🏻 Contacto
 
