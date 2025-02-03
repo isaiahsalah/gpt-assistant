@@ -61,7 +61,6 @@ def send_contact_message(phone_number_id, from_number):
         'to': from_number,
         "type": "contacts",
         "contacts": [{
-            "birthday": "1998-05-11",
             "emails": [{
                 "email": "Isasalas145@gmail.com"
             }],
@@ -80,7 +79,7 @@ def send_contact_message(phone_number_id, from_number):
                 "wa_id": "59170881108"
             }],
             "urls": [{
-                "url": "isaias.works"
+                "url": "isaias.lat"
             }]
         }]
     })

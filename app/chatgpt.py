@@ -22,7 +22,10 @@ def gpt_response(msg_context):
     """
     # Se manda el mensage a travez de la API de ChatGPT y se recupera la respuesta de este.
     gpt_resp = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo", messages=msg_context)
+        model="gpt-4o-mini",
+        messages=msg_context,
+        temperature=1
+    )
     # Se extrae el mensaje de la respuesta de ChatGPT.
     response = gpt_resp["choices"][0]["message"]
     # Se retorna el mensaje de la API de ChatGPT
